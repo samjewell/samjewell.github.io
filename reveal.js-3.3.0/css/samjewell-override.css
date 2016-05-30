@@ -1,0 +1,11 @@
+/*!
+ * MIT licensed
+ *
+ * Copyright (C) 2016 Sam Jewell, http://samjewell.github.io
+ */
+/*********************************************
+ * OVERRIDE STYLES
+ *********************************************/
+img {
+  border: none !important;
+}
